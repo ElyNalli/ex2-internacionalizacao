@@ -1,0 +1,42 @@
+{
+  "titulo_inicio": "Home | Mica's Shop",
+  "titulo_produtos": "Products | Mica's Shop",
+  "titulo_contato": "Contact | Mica's Shop",
+
+  "marca": "Mica's Shop",
+  "menu_inicio": "Home",
+  "menu_produtos": "Products",
+  "menu_contato": "Contact",
+  "abrir_menu": "Open menu",
+  "idioma": "Language",
+
+  "hero_titulo": "Welcome to Mica's Shop",
+  "hero_texto": "Cute Sanrio products, on any screen.",
+  "hero_botao": "See products",
+  "destaques": "Featured",
+
+  "produtos_titulo": "Products",
+  "col_produto": "Product",
+  "col_categoria": "Category",
+  "col_preco": "Price",
+  "col_data": "Arrival",
+  "prod_1": "Hello Kitty Plush",
+  "prod_2": "My Melody Mug",
+  "prod_3": "Cinnamoroll Keychain",
+  "prod_4": "Kuromi Pencil Case",
+  "cat_pelucias": "Plush toys",
+  "cat_casa": "Home",
+  "cat_acessorios": "Accessories",
+  "cat_papelaria": "Stationery",
+
+  "contato_titulo": "Contact",
+  "form_nome": "Name",
+  "form_email": "Email",
+  "form_msg": "Message",
+  "form_enviar": "Send",
+  "erro_obrigatorio": "Please fill out this field.",
+  "erro_email": "Enter a valid email address.",
+  "sucesso_envio": "Message sent successfully!",
+
+  "rodape": "© 2026 Mica's Shop - Fatec Americana"
+}

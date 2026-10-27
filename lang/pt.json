@@ -1,0 +1,42 @@
+{
+  "titulo_inicio": "Início | Loja da Mica",
+  "titulo_produtos": "Produtos | Loja da Mica",
+  "titulo_contato": "Contato | Loja da Mica",
+
+  "marca": "Loja da Mica",
+  "menu_inicio": "Início",
+  "menu_produtos": "Produtos",
+  "menu_contato": "Contato",
+  "abrir_menu": "Abrir menu",
+  "idioma": "Idioma",
+
+  "hero_titulo": "Bem-vindo à Loja da Mica",
+  "hero_texto": "Produtos fofos da Sanrio, em qualquer tela.",
+  "hero_botao": "Ver produtos",
+  "destaques": "Destaques",
+
+  "produtos_titulo": "Produtos",
+  "col_produto": "Produto",
+  "col_categoria": "Categoria",
+  "col_preco": "Preço",
+  "col_data": "Chegada",
+  "prod_1": "Pelúcia Hello Kitty",
+  "prod_2": "Caneca My Melody",
+  "prod_3": "Chaveiro Cinnamoroll",
+  "prod_4": "Estojo Kuromi",
+  "cat_pelucias": "Pelúcias",
+  "cat_casa": "Casa",
+  "cat_acessorios": "Acessórios",
+  "cat_papelaria": "Papelaria",
+
+  "contato_titulo": "Contato",
+  "form_nome": "Nome",
+  "form_email": "E-mail",
+  "form_msg": "Mensagem",
+  "form_enviar": "Enviar",
+  "erro_obrigatorio": "Por favor, preencha este campo.",
+  "erro_email": "Digite um e-mail válido.",
+  "sucesso_envio": "Mensagem enviada com sucesso!",
+
+  "rodape": "© 2026 Loja da Mica - Fatec Americana"
+}
